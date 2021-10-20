@@ -308,3 +308,67 @@ Received Import Request.
 Start importing Assets/CharacterEditorPackage/Materials/Red.mat using Guid(5abc6e42dada56842b624bd8e83ff0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b25fede7cc421aa91ccf32e160077b7') in 0.015446 seconds 
   Import took 0.021912 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 387.635117 seconds.
+  path: Assets/CharacterEditorPackage/Models/HeroCube/Materials/HeroCube.mat
+  artifactKey: Guid(2a08614abfe159941b7cd74d3c1b5bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CharacterEditorPackage/Models/HeroCube/Materials/HeroCube.mat using Guid(2a08614abfe159941b7cd74d3c1b5bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fe1a8d33203e0dd149eb4829883ffad') in 0.109783 seconds 
+  Import took 0.145470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001277 seconds.
+  path: Assets/CharacterEditorPackage/Models/HeroCube/Materials/No Name.mat
+  artifactKey: Guid(97848a0a613c6814dad797f2517c8aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CharacterEditorPackage/Models/HeroCube/Materials/No Name.mat using Guid(97848a0a613c6814dad797f2517c8aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0466a21fafaa03e1c6540755d4f1b780') in 0.020505 seconds 
+  Import took 0.027387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 312.177112 seconds.
+  path: Assets/GameExclusive Sprites/Nyeh.prefab
+  artifactKey: Guid(859e29df0d4154bb58ed3bb2457a84c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameExclusive Sprites/Nyeh.prefab using Guid(859e29df0d4154bb58ed3bb2457a84c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '035f9aa3079ba20400418c6753f79bfb') in 0.135570 seconds 
+  Import took 0.149013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 181.568334 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.002897 seconds 
+  Import took 0.017821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.370852 seconds.
+  path: Assets/GameExclusive Sprites/yaya.png
+  artifactKey: Guid(beff3bfcbc3c24107bd5e88b42da2c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameExclusive Sprites/yaya.png using Guid(beff3bfcbc3c24107bd5e88b42da2c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c866b08e1eee0082c9960dad10fa031') in 0.716599 seconds 
+  Import took 0.731501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.636375 seconds.
+  path: Assets/GameExclusive Sprites/yaya.png
+  artifactKey: Guid(beff3bfcbc3c24107bd5e88b42da2c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GameExclusive Sprites/yaya.png using Guid(beff3bfcbc3c24107bd5e88b42da2c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c28ac4f036812138e8d0ed9c1de42843') in 0.028167 seconds 
+  Import took 0.037236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 834.942804 seconds.
+  path: Assets/playbutton.png
+  artifactKey: Guid(b5c85b4f75c2b494fbb3bdd9573f7775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playbutton.png using Guid(b5c85b4f75c2b494fbb3bdd9573f7775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8501f2c13794ff9a16fa4b8108b0cbd9') in 0.092953 seconds 
+  Import took 0.131358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.838143 seconds.
+  path: Assets/dunk.png
+  artifactKey: Guid(0e8712cb5523947bfb3dc2e776bc091b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/dunk.png using Guid(0e8712cb5523947bfb3dc2e776bc091b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b176e13c9a6a4ae651def4a585eb3bf3') in 0.043927 seconds 
+  Import took 0.063140 seconds .
+
